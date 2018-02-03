@@ -1,7 +1,10 @@
 body {
   overflow-x: hidden;
-  font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: Arial, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+'Roboto Slab'
+
 
 p {
   line-height: 1.75;
@@ -112,7 +115,7 @@ img::-moz-selection {
   border: 0;
   background-color: #f7c004;
    
-  font-family: 'Arimo', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
@@ -180,6 +183,7 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  
 }
 
 header.masthead .intro-text {
