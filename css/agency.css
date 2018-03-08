@@ -241,12 +241,12 @@ header.masthead1 {
   background-size: cover;
 }
 
-header.masthead1 .intro-text1 {
+header.masthead1 .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
 }
 
-header.masthead1 .intro-text1 .intro-lead-in1 {
+header.masthead1 .intro-text .intro-lead-in {
   font-size: 22px;
   font-style: large;
   line-height: 22px;
@@ -254,7 +254,7 @@ header.masthead1 .intro-text1 .intro-lead-in1 {
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-header.masthead1 .intro-text1 .intro-heading {
+header.masthead1 .intro-text .intro-heading {
   font-size: 50px;
   font-weight: 700;
   line-height: 50px;
@@ -263,18 +263,18 @@ header.masthead1 .intro-text1 .intro-heading {
 }
 
 @media (min-width: 768px) {
-  header.masthead1 .intro-text1 {
+  header.masthead1 .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
   }
-  header.masthead1 .intro-text1 .intro-lead-in1 {
+  header.masthead1 .intro-text .intro-lead-in {
     font-size: 40px;
     font-style: normal;
     line-height: 40px;
     margin-bottom: 25px;
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
-  header.masthead1 .intro-text1 .intro-heading {
+  header.masthead1 .intro-text .intro-heading {
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
